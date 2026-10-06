@@ -1,0 +1,4 @@
+out/
+lib/mysql-connector-j.jar
+config.local.properties
+uploads/
